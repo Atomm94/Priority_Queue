@@ -8,6 +8,8 @@ git clone [Priority_Queue](https://github.com/Atomm94/Priority_Queue.git)
 `npm install`
 
 ## Usage
+`npm build`
+
 `npm start`
 
 `npm test`
